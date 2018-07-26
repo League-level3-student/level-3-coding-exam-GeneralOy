@@ -41,7 +41,7 @@ public class Level3CodingExam {
 		assertEquals("TIE", new VoteProcessor().calculateElectionWinner(votes));
 	}
 
-	/** 
+	/**
 	 * PART B
 	 * 
 	 * To complete this exercise, you need to count the number of matching entries in 2 HashMaps. 
